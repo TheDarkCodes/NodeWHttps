@@ -1,0 +1,22 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "How to build with nodejs app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specifield\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDarkCodes/NodeTaskApp.git"
+  },
+  "author": "Necro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheDarkCodes/NodeTaskApp/issues"
+  },
+  "homepage": "https://github.com/TheDarkCodes/NodeTaskApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
